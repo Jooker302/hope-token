@@ -108,10 +108,10 @@ export default function Home() {
           </div>
           <div class="p-4">
             <h2 class="text-xl font-bold mb-2 mt-4 text-white">
-              FairLaunch Date
+              Listed on 
             </h2>
             <p class="font-semibold text-white">
-              Bardoge is going to fairlaunch on August 23, 2023
+              Hope Token is listed on Binance Smart Chain
             </p>
           </div>
         </div>
